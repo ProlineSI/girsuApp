@@ -1,0 +1,24 @@
+#nombre {
+    font-size: 28px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 44%;
+    left: 24%;
+}
+#dni {
+    font-size: 23px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 19%;
+}
+#caracter {
+    font-size: 23px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+}

@@ -1,0 +1,30 @@
+body {
+    background-image: url("./images/ModeloCert.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#nombre {
+    font-size: 28px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 42.5%;
+    left: 30%;
+}
+#dni {
+    font-size: 23px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 47.7%;
+    left: 28%;
+}
+#caracter {
+    font-size: 23px;
+    font-family: 'Helvetica';
+    color: black;
+    position: absolute;
+    top: 56.5%;
+    left: 28%;
+}
